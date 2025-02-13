@@ -1,0 +1,32 @@
+body{
+	background-color: antiquewhite;
+	padding: 15px 15px 15px 15px
+}
+h1{
+	color: #040FFB;
+	font-size: 80px;
+	
+}
+.nav{
+	height: 50px;
+	background: #DA5303;
+}
+.nav div{
+	display: inline-block;
+	position: absolute;
+	left: 20px;
+	padding: 18px;
+	font-size: 20px;
+	color: #0EF206
+}
+.nav ul{
+	position: absolute;
+	right: 5px;
+}
+.nav ul li{
+	display: inline-block;
+}
+.nav ul li a{
+	color: white;
+	padding: 50px;	
+}
